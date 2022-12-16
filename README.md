@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Personal portfolio web project
+- 🔭 I’m currently working on personal portfolio web project
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on local business project
 - 🤔 I’m looking for help with Learn new stack
