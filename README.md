@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on personal portfolio web project
-- 🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on custom business solutions
+- 🌱 I’m currently learning Livewire 3
 - 👯 I’m looking to collaborate on local business project
 - 🤔 I’m looking for help with Learning new stack
 - 💬 Ask me about computers and general tech stuffs
